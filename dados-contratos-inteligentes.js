@@ -1,4 +1,4 @@
-var enderecoContrato = "0x480f7CBF25AF9314365511D9A7413e3e8EC8ac99";
+var enderecoContrato = "0xD899E278f5A17F4eea629Df8E9c4E63F401eB5c5";
 var abiContrato = [
   {
     inputs: [
